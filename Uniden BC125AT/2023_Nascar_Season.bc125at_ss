@@ -1,0 +1,536 @@
+Misc	Key	Auto	Off	8	14	6	2	USA
+Priority	Off
+WxPri	Off
+Service	1	Police	Off
+Service	2	Fire/Emergency	Off
+Service	3	HAM Radio	Off
+Service	4	Marine	Off
+Service	5	Railroad	Off
+Service	6	Civil Air	Off
+Service	7	Military Air	Off
+Service	8	CB Radio	Off
+Service	9	FRS/GMRS/MURS	Off
+Service	10	Racing	Off
+Custom	1	Search Bnak1	25000000	27995000	Off
+Custom	2	Search Bnak2	28000000	29695000	Off
+Custom	3	Search Bnak3	29700000	49995000	Off
+Custom	4	Search Bnak4	50000000	54000000	Off
+Custom	5	Search Bnak5	108000000	136991600	Off
+Custom	6	Search Bnak6	137000000	143995000	Off
+Custom	7	Search Bnak7	144000000	147995000	Off
+Custom	8	Search Bnak8	225000000	380000000	Off
+Custom	9	Search Bnak9	400000000	449993700	Off
+Custom	10	Search Bnak10	450000000	469993700	Off
+CloseCall	DND	On	On	Off
+CloseCallBands	On	On	On	On	On
+GeneralSearch	2	On
+Conventional	1	Bank 1	Off
+C-Freq	1	Race Control	461200000	Auto	Off	Off	2	Off
+C-Freq	2	Race Control B/U	464600000	Auto	Off	Off	2	Off
+C-Freq	3	Safety / Fire	451225000	Auto	Off	Off	2	Off
+C-Freq	4	Nascar 10	451575000	Auto	Off	Off	2	Off
+C-Freq	5	Nascar 2 &12	464600000	Auto	Off	Off	2	Off
+C-Freq	6	Nascar Weather	467850000	Auto	Off	Off	2	Off
+C-Freq	7	MRN Radio	454000000	Auto	Off	Off	2	Off
+C-Freq	8	FOX 1	450237500	Auto	Off	Off	2	Off
+C-Freq	9	FOX 2	450300000	Auto	Off	Off	2	Off
+C-Freq	10	FOX 3	450037500	Auto	Off	Off	2	Off
+C-Freq	11	SPEED	450112500	Auto	Off	Off	2	Off
+C-Freq	12	ROWDY Pre Race	454500000	Auto	Off	Off	2	Off
+C-Freq	13	ROWDY Interviews	454700000	Auto	Off	Off	2	Off
+C-Freq	14		0	Auto	Off	Off	2	Off
+C-Freq	15		0	Auto	Off	Off	2	Off
+C-Freq	16		0	Auto	Off	Off	2	Off
+C-Freq	17		0	Auto	Off	Off	2	Off
+C-Freq	18		0	Auto	Off	Off	2	Off
+C-Freq	19		0	Auto	Off	Off	2	Off
+C-Freq	20		0	Auto	Off	Off	2	Off
+C-Freq	21		0	Auto	Off	Off	2	Off
+C-Freq	22		0	Auto	Off	Off	2	Off
+C-Freq	23		0	Auto	Off	Off	2	Off
+C-Freq	24		0	Auto	Off	Off	2	Off
+C-Freq	25		0	Auto	Off	Off	2	Off
+C-Freq	26		0	Auto	Off	Off	2	Off
+C-Freq	27		0	Auto	Off	Off	2	Off
+C-Freq	28		0	Auto	Off	Off	2	Off
+C-Freq	29		0	Auto	Off	Off	2	Off
+C-Freq	30		0	Auto	Off	Off	2	Off
+C-Freq	31		0	Auto	Off	Off	2	Off
+C-Freq	32		0	Auto	Off	Off	2	Off
+C-Freq	33		0	Auto	Off	Off	2	Off
+C-Freq	34		0	Auto	Off	Off	2	Off
+C-Freq	35		0	Auto	Off	Off	2	Off
+C-Freq	36		0	Auto	Off	Off	2	Off
+C-Freq	37		0	Auto	Off	Off	2	Off
+C-Freq	38		0	Auto	Off	Off	2	Off
+C-Freq	39		0	Auto	Off	Off	2	Off
+C-Freq	40		0	Auto	Off	Off	2	Off
+C-Freq	41		0	Auto	Off	Off	2	Off
+C-Freq	42		0	Auto	Off	Off	2	Off
+C-Freq	43		0	Auto	Off	Off	2	Off
+C-Freq	44		0	Auto	Off	Off	2	Off
+C-Freq	45		0	Auto	Off	Off	2	Off
+C-Freq	46		0	Auto	Off	Off	2	Off
+C-Freq	47		0	Auto	Off	Off	2	Off
+C-Freq	48		0	Auto	Off	Off	2	Off
+C-Freq	49		0	Auto	Off	Off	2	Off
+C-Freq	50		0	Auto	Off	Off	2	Off
+Conventional	2	Bank 2	Off
+C-Freq	51	Ross Chastain	463237500	Auto	Off	Off	2	Off
+C-Freq	52	Austin Cindric	466212500	Auto	Off	Off	2	Off
+C-Freq	53	Austin Dillon	469012500	Auto	Off	Off	2	Off
+C-Freq	54	Kevin Harvick	469575000	Auto	Off	Off	2	Off
+C-Freq	55	Kyle Larson	465862500	Auto	Off	Off	2	Off
+C-Freq	56	Brad Keselowski	466275000	Auto	Off	Off	2	Off
+C-Freq	57	Corey Lajoie	469587500	Auto	Off	Off	2	Off
+C-Freq	58	Kyle Busch	457675000	Auto	Off	Off	2	Off
+C-Freq	59	Chase Elliott	468212500	Auto	Off	Off	2	Off
+C-Freq	60	Aric Almirola	466962500	Auto	Off	Off	2	Off
+C-Freq	61	Denny Hamlin	467475000	Auto	Off	Off	2	Off
+C-Freq	62	Ryan Blaney	464700000	Auto	Off	Off	2	Off
+C-Freq	63	Ty Dillon	459575000	Auto	Off	Off	2	Off
+C-Freq	64	Chase Briscoe	468087500	Auto	Off	Off	2	Off
+C-Freq	65	Riley Herbst	461250000	Auto	Off	Off	2	Off
+C-Freq	66	Aj Allmendinger	467987500	Auto	Off	Off	2	Off
+C-Freq	67	Chris Buescher	460950000	Auto	Off	Off	2	Off
+C-Freq	68	Martin Truex Jr	469837500	Auto	Off	Off	2	Off
+C-Freq	69	Christopher Bell	462475000	Auto	Off	Off	2	Off
+C-Freq	70	Harrison Burton	465887500	Auto	Off	Off	2	Off
+C-Freq	71	Joey Logano	464825000	Auto	Off	Off	2	Off
+C-Freq	72	Bubba Wallace	463087500	Auto	Off	Off	2	Off
+C-Freq	73	William Byron	453050000	Auto	Off	Off	2	Off
+C-Freq	74	Justin Haley	465112500	Auto	Off	Off	2	Off
+C-Freq	75	Michael Mcdowell	467112500	Auto	Off	Off	2	Off
+C-Freq	76	Zane Smith	468950000	Auto	Off	Off	2	Off
+C-Freq	77	Todd Gilliland	463312500	Auto	Off	Off	2	Off
+C-Freq	78	Ryan Preece	469137500	Auto	Off	Off	2	Off
+C-Freq	79	Noah Gragson	460162500	Auto	Off	Off	2	Off
+C-Freq	80	Erik Jones	463337500	Auto	Off	Off	2	Off
+C-Freq	81	Tyler Reddick	463150000	Auto	Off	Off	2	Off
+C-Freq	82	Ricky Stenhouse	457650000	Auto	Off	Off	2	Off
+C-Freq	83	Alex Bowman	466787500	Auto	Off	Off	2	Off
+C-Freq	84	Conor Daly	460912500	Auto	Off	Off	2	Off
+C-Freq	85	Cody Ware	451712500	Auto	Off	Off	2	Off
+C-Freq	86	Ty Gibbs	467450000	Auto	Off	Off	2	Off
+C-Freq	87	Austin Hill	451325000	Auto	Off	Off	2	Off
+C-Freq	88	Travis Pastrana	467812500	Auto	Off	Off	2	Off
+C-Freq	89	Ty Dillon	458212500	Auto	Off	Off	2	Off
+C-Freq	90	Bj Mcleod	467750000	Auto	Off	Off	2	Off
+C-Freq	91	Jimmie Johnson	460237500	Auto	Off	Off	2	Off
+C-Freq	92	Daniel Suarez	465387500	Auto	Off	Off	2	Off
+C-Freq	93		0	Auto	Off	Off	2	Off
+C-Freq	94		0	Auto	Off	Off	2	Off
+C-Freq	95		0	Auto	Off	Off	2	Off
+C-Freq	96		0	Auto	Off	Off	2	Off
+C-Freq	97		0	Auto	Off	Off	2	Off
+C-Freq	98		0	Auto	Off	Off	2	Off
+C-Freq	99		0	Auto	Off	Off	2	Off
+C-Freq	100		0	Auto	Off	Off	2	Off
+Conventional	3	Bank 3	Off
+C-Freq	101	Ross Chastain	469387500	Auto	Off	Off	2	Off
+C-Freq	102	Austin Cindric	452675000	Auto	Off	Off	2	Off
+C-Freq	103	Austin Dillon	462025000	Auto	Off	Off	2	Off
+C-Freq	104	Kevin Harvick	463925000	Auto	Off	Off	2	Off
+C-Freq	105	Kyle Larson	451987500	Auto	Off	Off	2	Off
+C-Freq	106	Brad Keselowski	461350000	Auto	Off	Off	2	Off
+C-Freq	107	Corey Lajoie	468687500	Auto	Off	Off	2	Off
+C-Freq	108	Kyle Busch	468600000	Auto	Off	Off	2	Off
+C-Freq	109	Chase Elliott	467037500	Auto	Off	Off	2	Off
+C-Freq	110	Aric Almirola	468937500	Auto	Off	Off	2	Off
+C-Freq	111	Denny Hamlin	462425000	Auto	Off	Off	2	Off
+C-Freq	112	Ryan Blaney	464925000	Auto	Off	Off	2	Off
+C-Freq	113	Ty Dillon	465962500	Auto	Off	Off	2	Off
+C-Freq	114	Chase Briscoe	469737500	Auto	Off	Off	2	Off
+C-Freq	115	Riley Herbst	466400000	Auto	Off	Off	2	Off
+C-Freq	116	Aj Allmendinger	462750000	Auto	Off	Off	2	Off
+C-Freq	117	Chris Buescher	462200000	Auto	Off	Off	2	Off
+C-Freq	118	Martin Truex Jr	462275000	Auto	Off	Off	2	Off
+C-Freq	119	Christopher Bell	465212500	Auto	Off	Off	2	Off
+C-Freq	120	Harrison Burton	463037500	Auto	Off	Off	2	Off
+C-Freq	121	Joey Logano	451825000	Auto	Off	Off	2	Off
+C-Freq	122	Bubba Wallace	460312500	Auto	Off	Off	2	Off
+C-Freq	123	William Byron	456887500	Auto	Off	Off	2	Off
+C-Freq	124	Justin Haley	462962500	Auto	Off	Off	2	Off
+C-Freq	125	Michael Mcdowell	463300000	Auto	Off	Off	2	Off
+C-Freq	126	Zane Smith	463450000	Auto	Off	Off	2	Off
+C-Freq	127	Todd Gilliland	461837500	Auto	Off	Off	2	Off
+C-Freq	128	Ryan Preece	466500000	Auto	Off	Off	2	Off
+C-Freq	129	Noah Gragson	462812500	Auto	Off	Off	2	Off
+C-Freq	130	Erik Jones	464312500	Auto	Off	Off	2	Off
+C-Freq	131	Tyler Reddick	467537500	Auto	Off	Off	2	Off
+C-Freq	132	Ricky Stenhouse	458650000	Auto	Off	Off	2	Off
+C-Freq	133	Alex Bowman	465287500	Auto	Off	Off	2	Off
+C-Freq	134	Conor Daly	457812500	Auto	Off	Off	2	Off
+C-Freq	135	Cody Ware	456812500	Auto	Off	Off	2	Off
+C-Freq	136	Ty Gibbs	462500000	Auto	Off	Off	2	Off
+C-Freq	137	Austin Hill	467887500	Auto	Off	Off	2	Off
+C-Freq	138	Travis Pastrana	463487500	Auto	Off	Off	2	Off
+C-Freq	139	Ty Dillon	465162500	Auto	Off	Off	2	Off
+C-Freq	140	Bj Mcleod	468962500	Auto	Off	Off	2	Off
+C-Freq	141	Jimmie Johnson	467500000	Auto	Off	Off	2	Off
+C-Freq	142	Daniel Suarez	469812500	Auto	Off	Off	2	Off
+C-Freq	143		0	Auto	Off	Off	2	Off
+C-Freq	144		0	Auto	Off	Off	2	Off
+C-Freq	145		0	Auto	Off	Off	2	Off
+C-Freq	146		0	Auto	Off	Off	2	Off
+C-Freq	147		0	Auto	Off	Off	2	Off
+C-Freq	148		0	Auto	Off	Off	2	Off
+C-Freq	149		0	Auto	Off	Off	2	Off
+C-Freq	150		0	Auto	Off	Off	2	Off
+Conventional	4	Bank 4	Off
+C-Freq	151		0	Auto	Off	Off	2	Off
+C-Freq	152		0	Auto	Off	Off	2	Off
+C-Freq	153		0	Auto	Off	Off	2	Off
+C-Freq	154		0	Auto	Off	Off	2	Off
+C-Freq	155		0	Auto	Off	Off	2	Off
+C-Freq	156		0	Auto	Off	Off	2	Off
+C-Freq	157		0	Auto	Off	Off	2	Off
+C-Freq	158		0	Auto	Off	Off	2	Off
+C-Freq	159		0	Auto	Off	Off	2	Off
+C-Freq	160		0	Auto	Off	Off	2	Off
+C-Freq	161		0	Auto	Off	Off	2	Off
+C-Freq	162		0	Auto	Off	Off	2	Off
+C-Freq	163		0	Auto	Off	Off	2	Off
+C-Freq	164		0	Auto	Off	Off	2	Off
+C-Freq	165		0	Auto	Off	Off	2	Off
+C-Freq	166		0	Auto	Off	Off	2	Off
+C-Freq	167		0	Auto	Off	Off	2	Off
+C-Freq	168		0	Auto	Off	Off	2	Off
+C-Freq	169		0	Auto	Off	Off	2	Off
+C-Freq	170		0	Auto	Off	Off	2	Off
+C-Freq	171		0	Auto	Off	Off	2	Off
+C-Freq	172		0	Auto	Off	Off	2	Off
+C-Freq	173		0	Auto	Off	Off	2	Off
+C-Freq	174		0	Auto	Off	Off	2	Off
+C-Freq	175		0	Auto	Off	Off	2	Off
+C-Freq	176		0	Auto	Off	Off	2	Off
+C-Freq	177		0	Auto	Off	Off	2	Off
+C-Freq	178		0	Auto	Off	Off	2	Off
+C-Freq	179		0	Auto	Off	Off	2	Off
+C-Freq	180		0	Auto	Off	Off	2	Off
+C-Freq	181		0	Auto	Off	Off	2	Off
+C-Freq	182		0	Auto	Off	Off	2	Off
+C-Freq	183		0	Auto	Off	Off	2	Off
+C-Freq	184		0	Auto	Off	Off	2	Off
+C-Freq	185		0	Auto	Off	Off	2	Off
+C-Freq	186		0	Auto	Off	Off	2	Off
+C-Freq	187		0	Auto	Off	Off	2	Off
+C-Freq	188		0	Auto	Off	Off	2	Off
+C-Freq	189		0	Auto	Off	Off	2	Off
+C-Freq	190		0	Auto	Off	Off	2	Off
+C-Freq	191		0	Auto	Off	Off	2	Off
+C-Freq	192		0	Auto	Off	Off	2	Off
+C-Freq	193		0	Auto	Off	Off	2	Off
+C-Freq	194		0	Auto	Off	Off	2	Off
+C-Freq	195		0	Auto	Off	Off	2	Off
+C-Freq	196		0	Auto	Off	Off	2	Off
+C-Freq	197		0	Auto	Off	Off	2	Off
+C-Freq	198		0	Auto	Off	Off	2	Off
+C-Freq	199		0	Auto	Off	Off	2	Off
+C-Freq	200		0	Auto	Off	Off	2	Off
+Conventional	5	Bank 5	Off
+C-Freq	201		0	Auto	Off	Off	2	Off
+C-Freq	202		0	Auto	Off	Off	2	Off
+C-Freq	203		0	Auto	Off	Off	2	Off
+C-Freq	204		0	Auto	Off	Off	2	Off
+C-Freq	205		0	Auto	Off	Off	2	Off
+C-Freq	206		0	Auto	Off	Off	2	Off
+C-Freq	207		0	Auto	Off	Off	2	Off
+C-Freq	208		0	Auto	Off	Off	2	Off
+C-Freq	209		0	Auto	Off	Off	2	Off
+C-Freq	210		0	Auto	Off	Off	2	Off
+C-Freq	211		0	Auto	Off	Off	2	Off
+C-Freq	212		0	Auto	Off	Off	2	Off
+C-Freq	213		0	Auto	Off	Off	2	Off
+C-Freq	214		0	Auto	Off	Off	2	Off
+C-Freq	215		0	Auto	Off	Off	2	Off
+C-Freq	216		0	Auto	Off	Off	2	Off
+C-Freq	217		0	Auto	Off	Off	2	Off
+C-Freq	218		0	Auto	Off	Off	2	Off
+C-Freq	219		0	Auto	Off	Off	2	Off
+C-Freq	220		0	Auto	Off	Off	2	Off
+C-Freq	221		0	Auto	Off	Off	2	Off
+C-Freq	222		0	Auto	Off	Off	2	Off
+C-Freq	223		0	Auto	Off	Off	2	Off
+C-Freq	224		0	Auto	Off	Off	2	Off
+C-Freq	225		0	Auto	Off	Off	2	Off
+C-Freq	226		0	Auto	Off	Off	2	Off
+C-Freq	227		0	Auto	Off	Off	2	Off
+C-Freq	228		0	Auto	Off	Off	2	Off
+C-Freq	229		0	Auto	Off	Off	2	Off
+C-Freq	230		0	Auto	Off	Off	2	Off
+C-Freq	231		0	Auto	Off	Off	2	Off
+C-Freq	232		0	Auto	Off	Off	2	Off
+C-Freq	233		0	Auto	Off	Off	2	Off
+C-Freq	234		0	Auto	Off	Off	2	Off
+C-Freq	235		0	Auto	Off	Off	2	Off
+C-Freq	236		0	Auto	Off	Off	2	Off
+C-Freq	237		0	Auto	Off	Off	2	Off
+C-Freq	238		0	Auto	Off	Off	2	Off
+C-Freq	239		0	Auto	Off	Off	2	Off
+C-Freq	240		0	Auto	Off	Off	2	Off
+C-Freq	241		0	Auto	Off	Off	2	Off
+C-Freq	242		0	Auto	Off	Off	2	Off
+C-Freq	243		0	Auto	Off	Off	2	Off
+C-Freq	244		0	Auto	Off	Off	2	Off
+C-Freq	245		0	Auto	Off	Off	2	Off
+C-Freq	246		0	Auto	Off	Off	2	Off
+C-Freq	247		0	Auto	Off	Off	2	Off
+C-Freq	248		0	Auto	Off	Off	2	Off
+C-Freq	249		0	Auto	Off	Off	2	Off
+C-Freq	250		0	Auto	Off	Off	2	Off
+Conventional	6	Bank 6	Off
+C-Freq	251		0	Auto	Off	Off	2	Off
+C-Freq	252		0	Auto	Off	Off	2	Off
+C-Freq	253		0	Auto	Off	Off	2	Off
+C-Freq	254		0	Auto	Off	Off	2	Off
+C-Freq	255		0	Auto	Off	Off	2	Off
+C-Freq	256		0	Auto	Off	Off	2	Off
+C-Freq	257		0	Auto	Off	Off	2	Off
+C-Freq	258		0	Auto	Off	Off	2	Off
+C-Freq	259		0	Auto	Off	Off	2	Off
+C-Freq	260		0	Auto	Off	Off	2	Off
+C-Freq	261		0	Auto	Off	Off	2	Off
+C-Freq	262		0	Auto	Off	Off	2	Off
+C-Freq	263		0	Auto	Off	Off	2	Off
+C-Freq	264		0	Auto	Off	Off	2	Off
+C-Freq	265		0	Auto	Off	Off	2	Off
+C-Freq	266		0	Auto	Off	Off	2	Off
+C-Freq	267		0	Auto	Off	Off	2	Off
+C-Freq	268		0	Auto	Off	Off	2	Off
+C-Freq	269		0	Auto	Off	Off	2	Off
+C-Freq	270		0	Auto	Off	Off	2	Off
+C-Freq	271		0	Auto	Off	Off	2	Off
+C-Freq	272		0	Auto	Off	Off	2	Off
+C-Freq	273		0	Auto	Off	Off	2	Off
+C-Freq	274		0	Auto	Off	Off	2	Off
+C-Freq	275		0	Auto	Off	Off	2	Off
+C-Freq	276		0	Auto	Off	Off	2	Off
+C-Freq	277		0	Auto	Off	Off	2	Off
+C-Freq	278		0	Auto	Off	Off	2	Off
+C-Freq	279		0	Auto	Off	Off	2	Off
+C-Freq	280		0	Auto	Off	Off	2	Off
+C-Freq	281		0	Auto	Off	Off	2	Off
+C-Freq	282		0	Auto	Off	Off	2	Off
+C-Freq	283		0	Auto	Off	Off	2	Off
+C-Freq	284		0	Auto	Off	Off	2	Off
+C-Freq	285		0	Auto	Off	Off	2	Off
+C-Freq	286		0	Auto	Off	Off	2	Off
+C-Freq	287		0	Auto	Off	Off	2	Off
+C-Freq	288		0	Auto	Off	Off	2	Off
+C-Freq	289		0	Auto	Off	Off	2	Off
+C-Freq	290		0	Auto	Off	Off	2	Off
+C-Freq	291		0	Auto	Off	Off	2	Off
+C-Freq	292		0	Auto	Off	Off	2	Off
+C-Freq	293		0	Auto	Off	Off	2	Off
+C-Freq	294		0	Auto	Off	Off	2	Off
+C-Freq	295		0	Auto	Off	Off	2	Off
+C-Freq	296		0	Auto	Off	Off	2	Off
+C-Freq	297		0	Auto	Off	Off	2	Off
+C-Freq	298		0	Auto	Off	Off	2	Off
+C-Freq	299		0	Auto	Off	Off	2	Off
+C-Freq	300		0	Auto	Off	Off	2	Off
+Conventional	7	Bank 7	Off
+C-Freq	301		0	Auto	Off	Off	2	Off
+C-Freq	302		0	Auto	Off	Off	2	Off
+C-Freq	303		0	Auto	Off	Off	2	Off
+C-Freq	304		0	Auto	Off	Off	2	Off
+C-Freq	305		0	Auto	Off	Off	2	Off
+C-Freq	306		0	Auto	Off	Off	2	Off
+C-Freq	307		0	Auto	Off	Off	2	Off
+C-Freq	308		0	Auto	Off	Off	2	Off
+C-Freq	309		0	Auto	Off	Off	2	Off
+C-Freq	310		0	Auto	Off	Off	2	Off
+C-Freq	311		0	Auto	Off	Off	2	Off
+C-Freq	312		0	Auto	Off	Off	2	Off
+C-Freq	313		0	Auto	Off	Off	2	Off
+C-Freq	314		0	Auto	Off	Off	2	Off
+C-Freq	315		0	Auto	Off	Off	2	Off
+C-Freq	316		0	Auto	Off	Off	2	Off
+C-Freq	317		0	Auto	Off	Off	2	Off
+C-Freq	318		0	Auto	Off	Off	2	Off
+C-Freq	319		0	Auto	Off	Off	2	Off
+C-Freq	320		0	Auto	Off	Off	2	Off
+C-Freq	321		0	Auto	Off	Off	2	Off
+C-Freq	322		0	Auto	Off	Off	2	Off
+C-Freq	323		0	Auto	Off	Off	2	Off
+C-Freq	324		0	Auto	Off	Off	2	Off
+C-Freq	325		0	Auto	Off	Off	2	Off
+C-Freq	326		0	Auto	Off	Off	2	Off
+C-Freq	327		0	Auto	Off	Off	2	Off
+C-Freq	328		0	Auto	Off	Off	2	Off
+C-Freq	329		0	Auto	Off	Off	2	Off
+C-Freq	330		0	Auto	Off	Off	2	Off
+C-Freq	331		0	Auto	Off	Off	2	Off
+C-Freq	332		0	Auto	Off	Off	2	Off
+C-Freq	333		0	Auto	Off	Off	2	Off
+C-Freq	334		0	Auto	Off	Off	2	Off
+C-Freq	335		0	Auto	Off	Off	2	Off
+C-Freq	336		0	Auto	Off	Off	2	Off
+C-Freq	337		0	Auto	Off	Off	2	Off
+C-Freq	338		0	Auto	Off	Off	2	Off
+C-Freq	339		0	Auto	Off	Off	2	Off
+C-Freq	340		0	Auto	Off	Off	2	Off
+C-Freq	341		0	Auto	Off	Off	2	Off
+C-Freq	342		0	Auto	Off	Off	2	Off
+C-Freq	343		0	Auto	Off	Off	2	Off
+C-Freq	344		0	Auto	Off	Off	2	Off
+C-Freq	345		0	Auto	Off	Off	2	Off
+C-Freq	346		0	Auto	Off	Off	2	Off
+C-Freq	347		0	Auto	Off	Off	2	Off
+C-Freq	348		0	Auto	Off	Off	2	Off
+C-Freq	349		0	Auto	Off	Off	2	Off
+C-Freq	350		0	Auto	Off	Off	2	Off
+Conventional	8	Bank 8	Off
+C-Freq	351		0	Auto	Off	Off	2	Off
+C-Freq	352		0	Auto	Off	Off	2	Off
+C-Freq	353		0	Auto	Off	Off	2	Off
+C-Freq	354		0	Auto	Off	Off	2	Off
+C-Freq	355		0	Auto	Off	Off	2	Off
+C-Freq	356		0	Auto	Off	Off	2	Off
+C-Freq	357		0	Auto	Off	Off	2	Off
+C-Freq	358		0	Auto	Off	Off	2	Off
+C-Freq	359		0	Auto	Off	Off	2	Off
+C-Freq	360		0	Auto	Off	Off	2	Off
+C-Freq	361		0	Auto	Off	Off	2	Off
+C-Freq	362		0	Auto	Off	Off	2	Off
+C-Freq	363		0	Auto	Off	Off	2	Off
+C-Freq	364		0	Auto	Off	Off	2	Off
+C-Freq	365		0	Auto	Off	Off	2	Off
+C-Freq	366		0	Auto	Off	Off	2	Off
+C-Freq	367		0	Auto	Off	Off	2	Off
+C-Freq	368		0	Auto	Off	Off	2	Off
+C-Freq	369		0	Auto	Off	Off	2	Off
+C-Freq	370		0	Auto	Off	Off	2	Off
+C-Freq	371		0	Auto	Off	Off	2	Off
+C-Freq	372		0	Auto	Off	Off	2	Off
+C-Freq	373		0	Auto	Off	Off	2	Off
+C-Freq	374		0	Auto	Off	Off	2	Off
+C-Freq	375		0	Auto	Off	Off	2	Off
+C-Freq	376		0	Auto	Off	Off	2	Off
+C-Freq	377		0	Auto	Off	Off	2	Off
+C-Freq	378		0	Auto	Off	Off	2	Off
+C-Freq	379		0	Auto	Off	Off	2	Off
+C-Freq	380		0	Auto	Off	Off	2	Off
+C-Freq	381		0	Auto	Off	Off	2	Off
+C-Freq	382		0	Auto	Off	Off	2	Off
+C-Freq	383		0	Auto	Off	Off	2	Off
+C-Freq	384		0	Auto	Off	Off	2	Off
+C-Freq	385		0	Auto	Off	Off	2	Off
+C-Freq	386		0	Auto	Off	Off	2	Off
+C-Freq	387		0	Auto	Off	Off	2	Off
+C-Freq	388		0	Auto	Off	Off	2	Off
+C-Freq	389		0	Auto	Off	Off	2	Off
+C-Freq	390		0	Auto	Off	Off	2	Off
+C-Freq	391		0	Auto	Off	Off	2	Off
+C-Freq	392		0	Auto	Off	Off	2	Off
+C-Freq	393		0	Auto	Off	Off	2	Off
+C-Freq	394		0	Auto	Off	Off	2	Off
+C-Freq	395		0	Auto	Off	Off	2	Off
+C-Freq	396		0	Auto	Off	Off	2	Off
+C-Freq	397		0	Auto	Off	Off	2	Off
+C-Freq	398		0	Auto	Off	Off	2	Off
+C-Freq	399		0	Auto	Off	Off	2	Off
+C-Freq	400		0	Auto	Off	Off	2	Off
+Conventional	9	Bank 9	Off
+C-Freq	401		0	Auto	Off	Off	2	Off
+C-Freq	402		0	Auto	Off	Off	2	Off
+C-Freq	403		0	Auto	Off	Off	2	Off
+C-Freq	404		0	Auto	Off	Off	2	Off
+C-Freq	405		0	Auto	Off	Off	2	Off
+C-Freq	406		0	Auto	Off	Off	2	Off
+C-Freq	407		0	Auto	Off	Off	2	Off
+C-Freq	408		0	Auto	Off	Off	2	Off
+C-Freq	409		0	Auto	Off	Off	2	Off
+C-Freq	410		0	Auto	Off	Off	2	Off
+C-Freq	411		0	Auto	Off	Off	2	Off
+C-Freq	412		0	Auto	Off	Off	2	Off
+C-Freq	413		0	Auto	Off	Off	2	Off
+C-Freq	414		0	Auto	Off	Off	2	Off
+C-Freq	415		0	Auto	Off	Off	2	Off
+C-Freq	416		0	Auto	Off	Off	2	Off
+C-Freq	417		0	Auto	Off	Off	2	Off
+C-Freq	418		0	Auto	Off	Off	2	Off
+C-Freq	419		0	Auto	Off	Off	2	Off
+C-Freq	420		0	Auto	Off	Off	2	Off
+C-Freq	421		0	Auto	Off	Off	2	Off
+C-Freq	422		0	Auto	Off	Off	2	Off
+C-Freq	423		0	Auto	Off	Off	2	Off
+C-Freq	424		0	Auto	Off	Off	2	Off
+C-Freq	425		0	Auto	Off	Off	2	Off
+C-Freq	426		0	Auto	Off	Off	2	Off
+C-Freq	427		0	Auto	Off	Off	2	Off
+C-Freq	428		0	Auto	Off	Off	2	Off
+C-Freq	429		0	Auto	Off	Off	2	Off
+C-Freq	430		0	Auto	Off	Off	2	Off
+C-Freq	431		0	Auto	Off	Off	2	Off
+C-Freq	432		0	Auto	Off	Off	2	Off
+C-Freq	433		0	Auto	Off	Off	2	Off
+C-Freq	434		0	Auto	Off	Off	2	Off
+C-Freq	435		0	Auto	Off	Off	2	Off
+C-Freq	436		0	Auto	Off	Off	2	Off
+C-Freq	437		0	Auto	Off	Off	2	Off
+C-Freq	438		0	Auto	Off	Off	2	Off
+C-Freq	439		0	Auto	Off	Off	2	Off
+C-Freq	440		0	Auto	Off	Off	2	Off
+C-Freq	441		0	Auto	Off	Off	2	Off
+C-Freq	442		0	Auto	Off	Off	2	Off
+C-Freq	443		0	Auto	Off	Off	2	Off
+C-Freq	444		0	Auto	Off	Off	2	Off
+C-Freq	445		0	Auto	Off	Off	2	Off
+C-Freq	446		0	Auto	Off	Off	2	Off
+C-Freq	447		0	Auto	Off	Off	2	Off
+C-Freq	448		0	Auto	Off	Off	2	Off
+C-Freq	449		0	Auto	Off	Off	2	Off
+C-Freq	450		0	Auto	Off	Off	2	Off
+Conventional	10	Bank 10	Off
+C-Freq	451		0	Auto	Off	Off	2	Off
+C-Freq	452		0	Auto	Off	Off	2	Off
+C-Freq	453		0	Auto	Off	Off	2	Off
+C-Freq	454		0	Auto	Off	Off	2	Off
+C-Freq	455		0	Auto	Off	Off	2	Off
+C-Freq	456		0	Auto	Off	Off	2	Off
+C-Freq	457		0	Auto	Off	Off	2	Off
+C-Freq	458		0	Auto	Off	Off	2	Off
+C-Freq	459		0	Auto	Off	Off	2	Off
+C-Freq	460		0	Auto	Off	Off	2	Off
+C-Freq	461		0	Auto	Off	Off	2	Off
+C-Freq	462		0	Auto	Off	Off	2	Off
+C-Freq	463		0	Auto	Off	Off	2	Off
+C-Freq	464		0	Auto	Off	Off	2	Off
+C-Freq	465		0	Auto	Off	Off	2	Off
+C-Freq	466		0	Auto	Off	Off	2	Off
+C-Freq	467		0	Auto	Off	Off	2	Off
+C-Freq	468		0	Auto	Off	Off	2	Off
+C-Freq	469		0	Auto	Off	Off	2	Off
+C-Freq	470		0	Auto	Off	Off	2	Off
+C-Freq	471		0	Auto	Off	Off	2	Off
+C-Freq	472		0	Auto	Off	Off	2	Off
+C-Freq	473		0	Auto	Off	Off	2	Off
+C-Freq	474		0	Auto	Off	Off	2	Off
+C-Freq	475		0	Auto	Off	Off	2	Off
+C-Freq	476		0	Auto	Off	Off	2	Off
+C-Freq	477		0	Auto	Off	Off	2	Off
+C-Freq	478		0	Auto	Off	Off	2	Off
+C-Freq	479		0	Auto	Off	Off	2	Off
+C-Freq	480		0	Auto	Off	Off	2	Off
+C-Freq	481		0	Auto	Off	Off	2	Off
+C-Freq	482		0	Auto	Off	Off	2	Off
+C-Freq	483		0	Auto	Off	Off	2	Off
+C-Freq	484		0	Auto	Off	Off	2	Off
+C-Freq	485		0	Auto	Off	Off	2	Off
+C-Freq	486		0	Auto	Off	Off	2	Off
+C-Freq	487		0	Auto	Off	Off	2	Off
+C-Freq	488		0	Auto	Off	Off	2	Off
+C-Freq	489		0	Auto	Off	Off	2	Off
+C-Freq	490		0	Auto	Off	Off	2	Off
+C-Freq	491		0	Auto	Off	Off	2	Off
+C-Freq	492		0	Auto	Off	Off	2	Off
+C-Freq	493		0	Auto	Off	Off	2	Off
+C-Freq	494		0	Auto	Off	Off	2	Off
+C-Freq	495		0	Auto	Off	Off	2	Off
+C-Freq	496		0	Auto	Off	Off	2	Off
+C-Freq	497		0	Auto	Off	Off	2	Off
+C-Freq	498		0	Auto	Off	Off	2	Off
+C-Freq	499		0	Auto	Off	Off	2	Off
+C-Freq	500		0	Auto	Off	Off	2	Off
