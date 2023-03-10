@@ -178,151 +178,151 @@ C-Freq	148		0	Auto	Off	Off	2	Off
 C-Freq	149		0	Auto	Off	Off	2	Off
 C-Freq	150		0	Auto	Off	Off	2	Off
 Conventional	4	Bank 4	Off
-C-Freq	151		0	Auto	Off	Off	2	Off
-C-Freq	152		0	Auto	Off	Off	2	Off
-C-Freq	153		0	Auto	Off	Off	2	Off
-C-Freq	154		0	Auto	Off	Off	2	Off
-C-Freq	155		0	Auto	Off	Off	2	Off
-C-Freq	156		0	Auto	Off	Off	2	Off
-C-Freq	157		0	Auto	Off	Off	2	Off
-C-Freq	158		0	Auto	Off	Off	2	Off
-C-Freq	159		0	Auto	Off	Off	2	Off
-C-Freq	160		0	Auto	Off	Off	2	Off
-C-Freq	161		0	Auto	Off	Off	2	Off
-C-Freq	162		0	Auto	Off	Off	2	Off
-C-Freq	163		0	Auto	Off	Off	2	Off
-C-Freq	164		0	Auto	Off	Off	2	Off
-C-Freq	165		0	Auto	Off	Off	2	Off
-C-Freq	166		0	Auto	Off	Off	2	Off
-C-Freq	167		0	Auto	Off	Off	2	Off
-C-Freq	168		0	Auto	Off	Off	2	Off
-C-Freq	169		0	Auto	Off	Off	2	Off
-C-Freq	170		0	Auto	Off	Off	2	Off
-C-Freq	171		0	Auto	Off	Off	2	Off
-C-Freq	172		0	Auto	Off	Off	2	Off
-C-Freq	173		0	Auto	Off	Off	2	Off
-C-Freq	174		0	Auto	Off	Off	2	Off
-C-Freq	175		0	Auto	Off	Off	2	Off
-C-Freq	176		0	Auto	Off	Off	2	Off
-C-Freq	177		0	Auto	Off	Off	2	Off
-C-Freq	178		0	Auto	Off	Off	2	Off
-C-Freq	179		0	Auto	Off	Off	2	Off
-C-Freq	180		0	Auto	Off	Off	2	Off
-C-Freq	181		0	Auto	Off	Off	2	Off
-C-Freq	182		0	Auto	Off	Off	2	Off
-C-Freq	183		0	Auto	Off	Off	2	Off
-C-Freq	184		0	Auto	Off	Off	2	Off
-C-Freq	185		0	Auto	Off	Off	2	Off
-C-Freq	186		0	Auto	Off	Off	2	Off
-C-Freq	187		0	Auto	Off	Off	2	Off
-C-Freq	188		0	Auto	Off	Off	2	Off
-C-Freq	189		0	Auto	Off	Off	2	Off
-C-Freq	190		0	Auto	Off	Off	2	Off
-C-Freq	191		0	Auto	Off	Off	2	Off
-C-Freq	192		0	Auto	Off	Off	2	Off
-C-Freq	193		0	Auto	Off	Off	2	Off
-C-Freq	194		0	Auto	Off	Off	2	Off
-C-Freq	195		0	Auto	Off	Off	2	Off
-C-Freq	196		0	Auto	Off	Off	2	Off
-C-Freq	197		0	Auto	Off	Off	2	Off
-C-Freq	198		0	Auto	Off	Off	2	Off
-C-Freq	199		0	Auto	Off	Off	2	Off
-C-Freq	200		0	Auto	Off	Off	2	Off
+C-Freq	151	Cole Custer	468287500	Auto	Off	Off	2	Off
+C-Freq	152	David Starr	459612500	Auto	Off	Off	2	Off
+C-Freq	153	Blaine Perkins	466312500	Auto	Off	Off	2	Off
+C-Freq	154	Gray Gaulding	463637500	Auto	Off	Off	2	Off
+C-Freq	155	Sam Mayer	453187500	Auto	Off	Off	2	Off
+C-Freq	156	Sheldon Creed	469237500	Auto	Off	Off	2	Off
+C-Freq	157	Bayley Currey	464012500	Auto	Off	Off	2	Off
+C-Freq	158	Jade Bufordh	457962500	Auto	Off	Off	2	Off
+C-Freq	159	Brennan Poole	458812500	Auto	Off	Off	2	Off
+C-Freq	160	Justin Allgaier	468862500	Auto	Off	Off	2	Off
+C-Freq	161	Josh Berry	462787500	Auto	Off	Off	2	Off
+C-Freq	162	Brandon Jones	457887500	Auto	Off	Off	2	Off
+C-Freq	163	Justin Haley	459575000	Auto	Off	Off	2	Off
+C-Freq	164	Daniel Hemric	466137500	Auto	Off	Off	2	Off
+C-Freq	165	Timmy Hill	461512500	Auto	Off	Off	2	Off
+C-Freq	166	Chandler Smith	468025000	Auto	Off	Off	2	Off
+C-Freq	167	Sammy Smith	464787500	Auto	Off	Off	2	Off
+C-Freq	168	Myatt Snider	466012500	Auto	Off	Off	2	Off
+C-Freq	169	John Nemechek	461862500	Auto	Off	Off	2	Off
+C-Freq	170	Austin Hill	456862500	Auto	Off	Off	2	Off
+C-Freq	171	Parker Chase	453075000	Auto	Off	Off	2	Off
+C-Freq	172	Brett Moffitt	464400000	Auto	Off	Off	2	Off
+C-Freq	173	Kaz Grala	451637500	Auto	Off	Off	2	Off
+C-Freq	174	Jeb Burton	459375000	Auto	Off	Off	2	Off
+C-Freq	175	Kyle Sieg	460375000	Auto	Off	Off	2	Off
+C-Freq	176	Parker Retzlaff	467175000	Auto	Off	Off	2	Off
+C-Freq	177	Jesse Iwuji	466437500	Auto	Off	Off	2	Off
+C-Freq	178	CJ McLaughlin	458425000	Auto	Off	Off	2	Off
+C-Freq	179	Alex Labbe	456625000	Auto	Off	Off	2	Off
+C-Freq	180	Ryan Sieg	460387500	Auto	Off	Off	2	Off
+C-Freq	181	Joe Graf Jr	457012500	Auto	Off	Off	2	Off
+C-Freq	182	Ryan Elliott	467187500	Auto	Off	Off	2	Off
+C-Freq	183	Jeff Earnhardt	453375000	Auto	Off	Off	2	Off
+C-Freq	184	Caesar Bacarella	459912500	Auto	Off	Off	2	Off
+C-Freq	185	Parker Kligerman	452512500	Auto	Off	Off	2	Off
+C-Freq	186	Jeremy Clements	469187500	Auto	Off	Off	2	Off
+C-Freq	187	Joey Gase	461475000	Auto	Off	Off	2	Off
+C-Freq	188	Dexter Stacy	458537500	Auto	Off	Off	2	Off
+C-Freq	189	Ryan Vargas	461750000	Auto	Off	Off	2	Off
+C-Freq	190	Ronnie Basset Jr	460812500	Auto	Off	Off	2	Off
+C-Freq	191	Anthony Alfredo	467587500	Auto	Off	Off	2	Off
+C-Freq	192	Josh Williams	467587500	Auto	Off	Off	2	Off
+C-Freq	193	Alex Labbe	465387500	Auto	Off	Off	2	Off
+C-Freq	194	Josh Bilicki	463375000	Auto	Off	Off	2	Off
+C-Freq	195	Mason Massey	463375000	Auto	Off	Off	2	Off
+C-Freq	196	Josh Williams	463062500	Auto	Off	Off	2	Off
+C-Freq	197	Kyle Weatherman	463062500	Auto	Off	Off	2	Off
+C-Freq	198	Riley Herbst	465537500	Auto	Off	Off	2	Off
+C-Freq	199	Garrett Smithley	467937500	Auto	Off	Off	2	Off
+C-Freq	200	Stefan Parsons	467937500	Auto	Off	Off	2	Off
 Conventional	5	Bank 5	Off
-C-Freq	201		0	Auto	Off	Off	2	Off
-C-Freq	202		0	Auto	Off	Off	2	Off
-C-Freq	203		0	Auto	Off	Off	2	Off
-C-Freq	204		0	Auto	Off	Off	2	Off
-C-Freq	205		0	Auto	Off	Off	2	Off
-C-Freq	206		0	Auto	Off	Off	2	Off
-C-Freq	207		0	Auto	Off	Off	2	Off
-C-Freq	208		0	Auto	Off	Off	2	Off
-C-Freq	209		0	Auto	Off	Off	2	Off
-C-Freq	210		0	Auto	Off	Off	2	Off
-C-Freq	211		0	Auto	Off	Off	2	Off
-C-Freq	212		0	Auto	Off	Off	2	Off
-C-Freq	213		0	Auto	Off	Off	2	Off
-C-Freq	214		0	Auto	Off	Off	2	Off
-C-Freq	215		0	Auto	Off	Off	2	Off
-C-Freq	216		0	Auto	Off	Off	2	Off
-C-Freq	217		0	Auto	Off	Off	2	Off
-C-Freq	218		0	Auto	Off	Off	2	Off
-C-Freq	219		0	Auto	Off	Off	2	Off
-C-Freq	220		0	Auto	Off	Off	2	Off
-C-Freq	221		0	Auto	Off	Off	2	Off
-C-Freq	222		0	Auto	Off	Off	2	Off
-C-Freq	223		0	Auto	Off	Off	2	Off
-C-Freq	224		0	Auto	Off	Off	2	Off
-C-Freq	225		0	Auto	Off	Off	2	Off
-C-Freq	226		0	Auto	Off	Off	2	Off
-C-Freq	227		0	Auto	Off	Off	2	Off
-C-Freq	228		0	Auto	Off	Off	2	Off
-C-Freq	229		0	Auto	Off	Off	2	Off
-C-Freq	230		0	Auto	Off	Off	2	Off
-C-Freq	231		0	Auto	Off	Off	2	Off
-C-Freq	232		0	Auto	Off	Off	2	Off
-C-Freq	233		0	Auto	Off	Off	2	Off
-C-Freq	234		0	Auto	Off	Off	2	Off
-C-Freq	235		0	Auto	Off	Off	2	Off
-C-Freq	236		0	Auto	Off	Off	2	Off
-C-Freq	237		0	Auto	Off	Off	2	Off
-C-Freq	238		0	Auto	Off	Off	2	Off
-C-Freq	239		0	Auto	Off	Off	2	Off
-C-Freq	240		0	Auto	Off	Off	2	Off
-C-Freq	241		0	Auto	Off	Off	2	Off
-C-Freq	242		0	Auto	Off	Off	2	Off
-C-Freq	243		0	Auto	Off	Off	2	Off
-C-Freq	244		0	Auto	Off	Off	2	Off
-C-Freq	245		0	Auto	Off	Off	2	Off
-C-Freq	246		0	Auto	Off	Off	2	Off
-C-Freq	247		0	Auto	Off	Off	2	Off
-C-Freq	248		0	Auto	Off	Off	2	Off
-C-Freq	249		0	Auto	Off	Off	2	Off
-C-Freq	250		0	Auto	Off	Off	2	Off
+C-Freq	201	Cole Custer	452837500	Auto	Off	Off	2	Off
+C-Freq	202	David Starr	457212500	Auto	Off	Off	2	Off
+C-Freq	203	Blaine Perkins	467712500	Auto	Off	Off	2	Off
+C-Freq	204	Gray Gaulding	463787500	Auto	Off	Off	2	Off
+C-Freq	205	Sam Mayer	468912500	Auto	Off	Off	2	Off
+C-Freq	206	Sheldon Creed	464462500	Auto	Off	Off	2	Off
+C-Freq	207	Bayley Currey	456962500	Auto	Off	Off	2	Off
+C-Freq	208	Jade Bufordh	463425000	Auto	Off	Off	2	Off
+C-Freq	209	Brennan Poole	469412500	Auto	Off	Off	2	Off
+C-Freq	210	Justin Allgaier	459162500	Auto	Off	Off	2	Off
+C-Freq	211	Josh Berry	468312500	Auto	Off	Off	2	Off
+C-Freq	212	Brandon Jones	464112500	Auto	Off	Off	2	Off
+C-Freq	213	Justin Haley	465962500	Auto	Off	Off	2	Off
+C-Freq	214	Daniel Hemric	459750000	Auto	Off	Off	2	Off
+C-Freq	215	Timmy Hill	452922500	Auto	Off	Off	2	Off
+C-Freq	216	Chandler Smith	465375000	Auto	Off	Off	2	Off
+C-Freq	217	Sammy Smith	451850000	Auto	Off	Off	2	Off
+C-Freq	218	Myatt Snider	451300000	Auto	Off	Off	2	Off
+C-Freq	219	John Nemechek	464087500	Auto	Off	Off	2	Off
+C-Freq	220	Austin Hill	457462500	Auto	Off	Off	2	Off
+C-Freq	221	Parker Chase	65.625 00	Auto	Off	Off	2	Off
+C-Freq	222	Brett Moffitt	464262500	Auto	Off	Off	2	Off
+C-Freq	223	Kaz Grala	451412500	Auto	Off	Off	2	Off
+C-Freq	224	Jeb Burton	462437500	Auto	Off	Off	2	Off
+C-Freq	225	Kyle Sieg	460637500	Auto	Off	Off	2	Off
+C-Freq	226	Parker Retzlaff	465775000	Auto	Off	Off	2	Off
+C-Freq	227	Jesse Iwuji	469612500	Auto	Off	Off	2	Off
+C-Freq	228	CJ McLaughlin	463310000	Auto	Off	Off	2	Off
+C-Freq	229	Alex Labbe	451937500	Auto	Off	Off	2	Off
+C-Freq	230	Ryan Sieg	460637500	Auto	Off	Off	2	Off
+C-Freq	231	Joe Graf Jr	457337500	Auto	Off	Off	2	Off
+C-Freq	232	Ryan Elliott	451062500	Auto	Off	Off	2	Off
+C-Freq	233	Jeff Earnhardt	458637500	Auto	Off	Off	2	Off
+C-Freq	234	Caesar Bacarella	462945000	Auto	Off	Off	2	Off
+C-Freq	235	Parker Kligerman	468537500	Auto	Off	Off	2	Off
+C-Freq	236	Jeremy Clements	468725000	Auto	Off	Off	2	Off
+C-Freq	237	Joey Gase	463087500	Auto	Off	Off	2	Off
+C-Freq	238	Dexter Stacy	467687500	Auto	Off	Off	2	Off
+C-Freq	239	Ryan Vargas	470000000	Auto	Off	Off	2	Off
+C-Freq	240	Ronnie Basset Jr	461712500	Auto	Off	Off	2	Off
+C-Freq	241	Anthony Alfredo	466365000	Auto	Off	Off	2	Off
+C-Freq	242	Josh Williams	466365000	Auto	Off	Off	2	Off
+C-Freq	243	Alex Labbe	465225000	Auto	Off	Off	2	Off
+C-Freq	244	Josh Bilicki	462837500	Auto	Off	Off	2	Off
+C-Freq	245	Mason Massey	462837500	Auto	Off	Off	2	Off
+C-Freq	246	Josh Williams	461375000	Auto	Off	Off	2	Off
+C-Freq	247	Kyle Weatherman	461375000	Auto	Off	Off	2	Off
+C-Freq	248	Riley Herbst	451375000	Auto	Off	Off	2	Off
+C-Freq	249	Garrett Smithley	457512500	Auto	Off	Off	2	Off
+C-Freq	250	Stefan Parsons	457512500	Auto	Off	Off	2	Off
 Conventional	6	Bank 6	Off
-C-Freq	251		0	Auto	Off	Off	2	Off
-C-Freq	252		0	Auto	Off	Off	2	Off
-C-Freq	253		0	Auto	Off	Off	2	Off
-C-Freq	254		0	Auto	Off	Off	2	Off
-C-Freq	255		0	Auto	Off	Off	2	Off
-C-Freq	256		0	Auto	Off	Off	2	Off
-C-Freq	257		0	Auto	Off	Off	2	Off
-C-Freq	258		0	Auto	Off	Off	2	Off
-C-Freq	259		0	Auto	Off	Off	2	Off
-C-Freq	260		0	Auto	Off	Off	2	Off
-C-Freq	261		0	Auto	Off	Off	2	Off
-C-Freq	262		0	Auto	Off	Off	2	Off
-C-Freq	263		0	Auto	Off	Off	2	Off
-C-Freq	264		0	Auto	Off	Off	2	Off
-C-Freq	265		0	Auto	Off	Off	2	Off
-C-Freq	266		0	Auto	Off	Off	2	Off
-C-Freq	267		0	Auto	Off	Off	2	Off
-C-Freq	268		0	Auto	Off	Off	2	Off
-C-Freq	269		0	Auto	Off	Off	2	Off
-C-Freq	270		0	Auto	Off	Off	2	Off
-C-Freq	271		0	Auto	Off	Off	2	Off
-C-Freq	272		0	Auto	Off	Off	2	Off
-C-Freq	273		0	Auto	Off	Off	2	Off
-C-Freq	274		0	Auto	Off	Off	2	Off
-C-Freq	275		0	Auto	Off	Off	2	Off
-C-Freq	276		0	Auto	Off	Off	2	Off
-C-Freq	277		0	Auto	Off	Off	2	Off
-C-Freq	278		0	Auto	Off	Off	2	Off
-C-Freq	279		0	Auto	Off	Off	2	Off
-C-Freq	280		0	Auto	Off	Off	2	Off
-C-Freq	281		0	Auto	Off	Off	2	Off
-C-Freq	282		0	Auto	Off	Off	2	Off
-C-Freq	283		0	Auto	Off	Off	2	Off
-C-Freq	284		0	Auto	Off	Off	2	Off
-C-Freq	285		0	Auto	Off	Off	2	Off
-C-Freq	286		0	Auto	Off	Off	2	Off
-C-Freq	287		0	Auto	Off	Off	2	Off
-C-Freq	288		0	Auto	Off	Off	2	Off
-C-Freq	289		0	Auto	Off	Off	2	Off
-C-Freq	290		0	Auto	Off	Off	2	Off
-C-Freq	291		0	Auto	Off	Off	2	Off
-C-Freq	292		0	Auto	Off	Off	2	Off
-C-Freq	293		0	Auto	Off	Off	2	Off
+C-Freq	251	Kris Wright	456150000	Auto	Off	Off	2	Off
+C-Freq	252	Kaden Honeycutt	451387500	Auto	Off	Off	2	Off
+C-Freq	253	Jason A White	460625000	Auto	Off	Off	2	Off
+C-Freq	254	Nick Sanchez	462125000	Auto	Off	Off	2	Off
+C-Freq	255	Chase Purdy	468400000	Auto	Off	Off	2	Off
+C-Freq	256	Dean Thompson	468515200	Auto	Off	Off	2	Off
+C-Freq	257	Norm Benning	453237500	Auto	Off	Off	2	Off
+C-Freq	258	Corey LaJoie	469587500	Auto	Off	Off	2	Off
+C-Freq	259	Colby Howard	451037500	Auto	Off	Off	2	Off
+C-Freq	260	Corey Heim	463737500	Auto	Off	Off	2	Off
+C-Freq	261	Spencer Boyd	469712500	Auto	Off	Off	2	Off
+C-Freq	262	Hailie Deegan	460515200	Auto	Off	Off	2	Off
+C-Freq	263	Tanner Gray	458662500	Auto	Off	Off	2	Off
+C-Freq	264	Tyler Ankrum	453662500	Auto	Off	Off	2	Off
+C-Freq	265	Sammy Smith	460775000	Auto	Off	Off	2	Off
+C-Freq	266	Christian Eckes	452362500	Auto	Off	Off	2	Off
+C-Freq	267	Derek Kraus	451687500	Auto	Off	Off	2	Off
+C-Freq	268	Josh Reaume	460075000	Auto	Off	Off	2	Off
+C-Freq	269	Grant Enfinger	451625000	Auto	Off	Off	2	Off
+C-Freq	270	Rajah Caruth	463112500	Auto	Off	Off	2	Off
+C-Freq	271	Matt DiBenedetto	464562500	Auto	Off	Off	2	Off
+C-Freq	272	Bryan Dauzat	452112500	Auto	Off	Off	2	Off
+C-Freq	273	Chris Hacker	461000000	Auto	Off	Off	2	Off
+C-Freq	274	Bret Holmes	456025000	Auto	Off	Off	2	Off
+C-Freq	275	Mason Massey	460475000	Auto	Off	Off	2	Off
+C-Freq	276	Jason M White	456662500	Auto	Off	Off	2	Off
+C-Freq	277	Chase Elliott	456825000	Auto	Off	Off	2	Off
+C-Freq	278	Zane Smith	467850000	Auto	Off	Off	2	Off
+C-Freq	279	Travis Pastrana	462987500	Auto	Off	Off	2	Off
+C-Freq	280	Carson Hocevar	468712500	Auto	Off	Off	2	Off
+C-Freq	281	Daniel Dye 	457287500	Auto	Off	Off	2	Off
+C-Freq	282	Lawless Alan	463725000	Auto	Off	Off	2	Off
+C-Freq	283	Johnny Sauter	468185000	Auto	Off	Off	2	Off
+C-Freq	284	Jack Wood	462375000	Auto	Off	Off	2	Off
+C-Freq	285	Stewart Friesen	468162500	Auto	Off	Off	2	Off
+C-Freq	286	Timmy Hill	451562500	Auto	Off	Off	2	Off
+C-Freq	287	Parker Kligerman	462075000	Auto	Off	Off	2	Off
+C-Freq	288	Clay Greenfield	466700000	Auto	Off	Off	2	Off
+C-Freq	289	Matt Crafton	461675000	Auto	Off	Off	2	Off
+C-Freq	290	Todd Peck	468185000	Auto	Off	Off	2	Off
+C-Freq	291	Codia Rohrbaugh	453762500	Auto	Off	Off	2	Off
+C-Freq	292	Ty Majeski	457025000	Auto	Off	Off	2	Off
+C-Freq	293	Ben Rhodes	468687500	Auto	Off	Off	2	Off
 C-Freq	294		0	Auto	Off	Off	2	Off
 C-Freq	295		0	Auto	Off	Off	2	Off
 C-Freq	296		0	Auto	Off	Off	2	Off
@@ -331,49 +331,49 @@ C-Freq	298		0	Auto	Off	Off	2	Off
 C-Freq	299		0	Auto	Off	Off	2	Off
 C-Freq	300		0	Auto	Off	Off	2	Off
 Conventional	7	Bank 7	Off
-C-Freq	301		0	Auto	Off	Off	2	Off
-C-Freq	302		0	Auto	Off	Off	2	Off
-C-Freq	303		0	Auto	Off	Off	2	Off
-C-Freq	304		0	Auto	Off	Off	2	Off
-C-Freq	305		0	Auto	Off	Off	2	Off
-C-Freq	306		0	Auto	Off	Off	2	Off
-C-Freq	307		0	Auto	Off	Off	2	Off
-C-Freq	308		0	Auto	Off	Off	2	Off
-C-Freq	309		0	Auto	Off	Off	2	Off
-C-Freq	310		0	Auto	Off	Off	2	Off
-C-Freq	311		0	Auto	Off	Off	2	Off
-C-Freq	312		0	Auto	Off	Off	2	Off
-C-Freq	313		0	Auto	Off	Off	2	Off
-C-Freq	314		0	Auto	Off	Off	2	Off
-C-Freq	315		0	Auto	Off	Off	2	Off
-C-Freq	316		0	Auto	Off	Off	2	Off
-C-Freq	317		0	Auto	Off	Off	2	Off
-C-Freq	318		0	Auto	Off	Off	2	Off
-C-Freq	319		0	Auto	Off	Off	2	Off
-C-Freq	320		0	Auto	Off	Off	2	Off
-C-Freq	321		0	Auto	Off	Off	2	Off
-C-Freq	322		0	Auto	Off	Off	2	Off
-C-Freq	323		0	Auto	Off	Off	2	Off
-C-Freq	324		0	Auto	Off	Off	2	Off
-C-Freq	325		0	Auto	Off	Off	2	Off
-C-Freq	326		0	Auto	Off	Off	2	Off
-C-Freq	327		0	Auto	Off	Off	2	Off
-C-Freq	328		0	Auto	Off	Off	2	Off
-C-Freq	329		0	Auto	Off	Off	2	Off
-C-Freq	330		0	Auto	Off	Off	2	Off
-C-Freq	331		0	Auto	Off	Off	2	Off
-C-Freq	332		0	Auto	Off	Off	2	Off
-C-Freq	333		0	Auto	Off	Off	2	Off
-C-Freq	334		0	Auto	Off	Off	2	Off
-C-Freq	335		0	Auto	Off	Off	2	Off
-C-Freq	336		0	Auto	Off	Off	2	Off
-C-Freq	337		0	Auto	Off	Off	2	Off
-C-Freq	338		0	Auto	Off	Off	2	Off
-C-Freq	339		0	Auto	Off	Off	2	Off
-C-Freq	340		0	Auto	Off	Off	2	Off
-C-Freq	341		0	Auto	Off	Off	2	Off
-C-Freq	342		0	Auto	Off	Off	2	Off
-C-Freq	343		0	Auto	Off	Off	2	Off
+C-Freq	301	Kris Wright	452187500	Auto	Off	Off	2	Off
+C-Freq	302	Kaden Honeycutt	452550000	Auto	Off	Off	2	Off
+C-Freq	303	Jason A White	452887500	Auto	Off	Off	2	Off
+C-Freq	304	Nick Sanchez	457125000	Auto	Off	Off	2	Off
+C-Freq	305	Chase Purdy	469025000	Auto	Off	Off	2	Off
+C-Freq	306	Dean Thompson	464025000	Auto	Off	Off	2	Off
+C-Freq	307	Norm Benning	469137500	Auto	Off	Off	2	Off
+C-Freq	308	Corey LaJoie	463612500	Auto	Off	Off	2	Off
+C-Freq	309	Colby Howard	456412500	Auto	Off	Off	2	Off
+C-Freq	310	Corey Heim	459012500	Auto	Off	Off	2	Off
+C-Freq	311	Spencer Boyd	468525000	Auto	Off	Off	2	Off
+C-Freq	312	Hailie Deegan	462887500	Auto	Off	Off	2	Off
+C-Freq	313	Tanner Gray	458812500	Auto	Off	Off	2	Off
+C-Freq	314	Tyler Ankrum	453162500	Auto	Off	Off	2	Off
+C-Freq	315	Sammy Smith	467425000	Auto	Off	Off	2	Off
+C-Freq	316	Christian Eckes	466037500	Auto	Off	Off	2	Off
+C-Freq	317	Derek Kraus	456750000	Auto	Off	Off	2	Off
+C-Freq	318	Josh Reaume	463137500	Auto	Off	Off	2	Off
+C-Freq	319	Grant Enfinger	457212500	Auto	Off	Off	2	Off
+C-Freq	320	Rajah Caruth	467362500	Auto	Off	Off	2	Off
+C-Freq	321	Matt DiBenedetto	466587500	Auto	Off	Off	2	Off
+C-Freq	322	Bryan Dauzat	457112500	Auto	Off	Off	2	Off
+C-Freq	323	Chris Hacker	461385000	Auto	Off	Off	2	Off
+C-Freq	324	Bret Holmes	465725000	Auto	Off	Off	2	Off
+C-Freq	325	Mason Massey	458087500	Auto	Off	Off	2	Off
+C-Freq	326	Jason M White	450112500	Auto	Off	Off	2	Off
+C-Freq	327	Chase Elliott	463212500	Auto	Off	Off	2	Off
+C-Freq	328	Zane Smith	469100000	Auto	Off	Off	2	Off
+C-Freq	329	Travis Pastrana	463187500	Auto	Off	Off	2	Off
+C-Freq	330	Carson Hocevar	469225000	Auto	Off	Off	2	Off
+C-Freq	331	Daniel Dye 	457037500	Auto	Off	Off	2	Off
+C-Freq	332	Lawless Alan	457812500	Auto	Off	Off	2	Off
+C-Freq	333	Johnny Sauter	467775000	Auto	Off	Off	2	Off
+C-Freq	334	Jack Wood	463750000	Auto	Off	Off	2	Off
+C-Freq	335	Stewart Friesen	462425000	Auto	Off	Off	2	Off
+C-Freq	336	Timmy Hill	451512500	Auto	Off	Off	2	Off
+C-Freq	337	Parker Kligerman	469725000	Auto	Off	Off	2	Off
+C-Freq	338	Clay Greenfield	466387500	Auto	Off	Off	2	Off
+C-Freq	339	Matt Crafton	469375000	Auto	Off	Off	2	Off
+C-Freq	340	Todd Peck	468525000	Auto	Off	Off	2	Off
+C-Freq	341	Codia Rohrbaugh	459437500	Auto	Off	Off	2	Off
+C-Freq	342	Ty Majeski	456500000	Auto	Off	Off	2	Off
+C-Freq	343	Ben Rhodes	461187500	Auto	Off	Off	2	Off
 C-Freq	344		0	Auto	Off	Off	2	Off
 C-Freq	345		0	Auto	Off	Off	2	Off
 C-Freq	346		0	Auto	Off	Off	2	Off

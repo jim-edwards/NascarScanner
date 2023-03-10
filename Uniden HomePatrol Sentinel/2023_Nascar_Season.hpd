@@ -1,6 +1,6 @@
 TargetModel	HomePatrol-1
 FormatVersion	2.04
-Conventional			2023 Nascar Seasons - PIR	Off		Conventional
+Conventional			2023 Nascar Season	Off		Conventional
 C-Group			Race Channels	Off	0.000000	0.000000	0.0	Circle
 C-Freq			Nascar 1 & 11	Off	461200000	AUTO		216	Off	2	0	Off	Auto
 C-Freq			Nascar 2 & 12	Off	464600000	AUTO		216	Off	2	0	Off	Auto
@@ -24,7 +24,7 @@ C-Freq			FOX Third	Off	450037500	AUTO		216	Off	2	0	Off	Auto
 C-Freq			SPEED	Off	450112500	AUTO		216	Off	2	0	Off	Auto
 C-Freq			ROWDY Pre-Race Show	Off	454500000	AUTO		216	Off	2	0	Off	Auto
 C-Freq			ROWDY Classic Interviews	Off	454700000	AUTO		216	Off	2	0	Off	Auto
-C-Group			Drivers - Primary	Off	0.000000	0.000000	0.0	Circle
+C-Group			Cup Drivers - Primary	Off	0.000000	0.000000	0.0	Circle
 C-Freq			Ross Chastain	Off	463237500	AUTO		217	Off	2	0	Off	Auto
 C-Freq			Austin Cindric	Off	466212500	AUTO		217	Off	2	0	Off	Auto
 C-Freq			Austin Dillon	Off	469012500	AUTO		217	Off	2	0	Off	Auto
@@ -68,7 +68,7 @@ C-Freq			TBA 1	Off	460475000	AUTO		217	Off	2	0	Off	Auto
 C-Freq			TBA 2	Off	456662500	AUTO		217	Off	2	0	Off	Auto
 C-Freq			Jimmie Johnson	Off	460237500	AUTO		217	Off	2	0	Off	Auto
 C-Freq			Daniel Suarez	Off	465387500	AUTO		217	Off	2	0	Off	Auto
-C-Group			Drivers - Backup	Off	0.000000	0.000000	0.0	Circle
+C-Group			Cup Drivers - Backup	Off	0.000000	0.000000	0.0	Circle
 C-Freq			Ross Chastain	Off	469387500	AUTO		217	Off	2	0	Off	Auto
 C-Freq			Austin Cindric	Off	452675000	AUTO		217	Off	2	0	Off	Auto
 C-Freq			Austin Dillon	Off	462025000	AUTO		217	Off	2	0	Off	Auto
@@ -112,3 +112,194 @@ C-Freq			TBA 1	Off	458087500	AUTO		217	Off	2	0	Off	Auto
 C-Freq			TBA 2	Off	450112500	AUTO		217	Off	2	0	Off	Auto
 C-Freq			Jimmie Johnson	Off	467500000	AUTO		217	Off	2	0	Off	Auto
 C-Freq			Daniel Suarez	Off	469812500	AUTO		217	Off	2	0	Off	Auto
+C-Group			Xfinity Drivers - Primary	Off	0.000000	0.000000	0.0	Circle
+C-Freq			Cole Custer	Off	468287500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			David Starr	Off	459612500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Blaine Perkins	Off	466312500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Gray Gaulding	Off	463637500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Sam Mayer	Off	453187500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Sheldon Creed	Off	469237500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Bayley Currey	Off	464012500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Jade Bufordh	Off	457962500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Brennan Poole	Off	458812500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Justin Allgaier	Off	468862500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Josh Berry	Off	462787500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Brandon Jones	Off	457887500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Justin Haley	Off	459575000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Daniel Hemric	Off	466137500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Timmy Hill	Off	461512500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Chandler Smith	Off	468025000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Sammy Smith	Off	464787500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Myatt Snider	Off	466012500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			John Nemechek	Off	461862500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Austin Hill	Off	456862500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Parker Chase	Off	453075000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Brett Moffitt	Off	464400000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Kaz Grala	Off	451637500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Jeb Burton	Off	459375000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Kyle Sieg	Off	460375000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Parker Retzlaff	Off	467175000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Jesse Iwuji	Off	466437500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			CJ McLaughlin	Off	458425000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Alex Labbe	Off	456625000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Ryan Sieg	Off	460387500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Joe Graf Jr	Off	457012500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Ryan Elliott	Off	467187500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Jeff Earnhardt	Off	453375000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Caesar Bacarella	Off	459912500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Parker Kligerman	Off	452512500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Jeremy Clements	Off	469187500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Joey Gase	Off	461475000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Dexter Stacy	Off	458537500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Ryan Vargas	Off	461750000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Ronnie Basset Jr	Off	460812500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Anthony Alfredo	Off	467587500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Josh Williams	Off	467587500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Alex Labbe	Off	465387500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Josh Bilicki	Off	463375000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Mason Massey	Off	463375000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Josh Williams	Off	463062500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Kyle Weatherman	Off	463062500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Riley Herbst	Off	465537500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Garrett Smithley	Off	467937500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Stefan Parsons	Off	467937500	AUTO		217	Off	2	0	Off	Auto
+C-Group			Xfinity Drivers - Backup	Off	0.000000	0.000000	0.0	Circle
+C-Freq			Cole Custer	Off	452837500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			David Starr	Off	457212500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Blaine Perkins	Off	467712500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Gray Gaulding	Off	463787500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Sam Mayer	Off	468912500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Sheldon Creed	Off	464462500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Bayley Currey	Off	456962500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Jade Bufordh	Off	463425000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Brennan Poole	Off	469412500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Justin Allgaier	Off	459162500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Josh Berry	Off	468312500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Brandon Jones	Off	464112500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Justin Haley	Off	465962500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Daniel Hemric	Off	459750000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Timmy Hill	Off	452922500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Chandler Smith	Off	465375000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Sammy Smith	Off	451850000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Myatt Snider	Off	451300000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			John Nemechek	Off	464087500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Austin Hill	Off	457462500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Parker Chase	Off	65.625 00	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Brett Moffitt	Off	464262500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Kaz Grala	Off	451412500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Jeb Burton	Off	462437500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Kyle Sieg	Off	460637500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Parker Retzlaff	Off	465775000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Jesse Iwuji	Off	469612500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			CJ McLaughlin	Off	463310000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Alex Labbe	Off	451937500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Ryan Sieg	Off	460637500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Joe Graf Jr	Off	457337500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Ryan Elliott	Off	451062500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Jeff Earnhardt	Off	458637500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Caesar Bacarella	Off	462945000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Parker Kligerman	Off	468537500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Jeremy Clements	Off	468725000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Joey Gase	Off	463087500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Dexter Stacy	Off	467687500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Ryan Vargas	Off	470000000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Ronnie Basset Jr	Off	461712500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Anthony Alfredo	Off	466365000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Josh Williams	Off	466365000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Alex Labbe	Off	465225000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Josh Bilicki	Off	462837500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Mason Massey	Off	462837500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Josh Williams	Off	461375000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Kyle Weatherman	Off	461375000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Riley Herbst	Off	451375000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Garrett Smithley	Off	457512500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Stefan Parsons	Off	457512500	AUTO		217	Off	2	0	Off	Auto
+C-Group			Truck Drivers - Primary	Off	0.000000	0.000000	0.0	Circle
+C-Freq			Kris Wright	Off	456150000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Kaden Honeycutt	Off	451387500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Jason A White	Off	460625000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Nick Sanchez	Off	462125000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Chase Purdy	Off	468400000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Dean Thompson	Off	468515200	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Norm Benning	Off	453237500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Corey LaJoie	Off	469587500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Colby Howard	Off	451037500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Corey Heim	Off	463737500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Spencer Boyd	Off	469712500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Hailie Deegan	Off	460515200	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Tanner Gray	Off	458662500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Tyler Ankrum	Off	453662500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Sammy Smith	Off	460775000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Christian Eckes	Off	452362500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Derek Kraus	Off	451687500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Josh Reaume	Off	460075000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Grant Enfinger	Off	451625000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Rajah Caruth	Off	463112500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Matt DiBenedetto	Off	464562500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Bryan Dauzat	Off	452112500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Chris Hacker	Off	461000000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Bret Holmes	Off	456025000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Mason Massey	Off	460475000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Jason M White	Off	456662500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Chase Elliott	Off	456825000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Zane Smith	Off	467850000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Travis Pastrana	Off	462987500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Carson Hocevar	Off	468712500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Daniel Dye 	Off	457287500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Lawless Alan	Off	463725000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Johnny Sauter	Off	468185000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Jack Wood	Off	462375000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Stewart Friesen	Off	468162500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Timmy Hill	Off	451562500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Parker Kligerman	Off	462075000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Clay Greenfield	Off	466700000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Matt Crafton	Off	461675000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Todd Peck	Off	468185000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Codia Rohrbaugh	Off	453762500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Ty Majeski	Off	457025000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Ben Rhodes	Off	468687500	AUTO		217	Off	2	0	Off	Auto
+C-Group			Truck Drivers - Backup	Off	0.000000	0.000000	0.0	Circle
+C-Freq			Kris Wright	Off	452187500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Kaden Honeycutt	Off	452550000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Jason A White	Off	452887500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Nick Sanchez	Off	457125000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Chase Purdy	Off	469025000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Dean Thompson	Off	464025000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Norm Benning	Off	469137500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Corey LaJoie	Off	463612500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Colby Howard	Off	456412500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Corey Heim	Off	459012500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Spencer Boyd	Off	468525000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Hailie Deegan	Off	462887500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Tanner Gray	Off	458812500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Tyler Ankrum	Off	453162500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Sammy Smith	Off	467425000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Christian Eckes	Off	466037500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Derek Kraus	Off	456750000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Josh Reaume	Off	463137500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Grant Enfinger	Off	457212500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Rajah Caruth	Off	467362500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Matt DiBenedetto	Off	466587500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Bryan Dauzat	Off	457112500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Chris Hacker	Off	461385000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Bret Holmes	Off	465725000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Mason Massey	Off	458087500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Jason M White	Off	450112500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Chase Elliott	Off	463212500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Zane Smith	Off	469100000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Travis Pastrana	Off	463187500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Carson Hocevar	Off	469225000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Daniel Dye 	Off	457037500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Lawless Alan	Off	457812500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Johnny Sauter	Off	467775000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Jack Wood	Off	463750000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Stewart Friesen	Off	462425000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Timmy Hill	Off	451512500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Parker Kligerman	Off	469725000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Clay Greenfield	Off	466387500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Matt Crafton	Off	469375000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Todd Peck	Off	468525000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Codia Rohrbaugh	Off	459437500	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Ty Majeski	Off	456500000	AUTO		217	Off	2	0	Off	Auto
+C-Freq			Ben Rhodes	Off	461187500	AUTO		217	Off	2	0	Off	Auto
+
