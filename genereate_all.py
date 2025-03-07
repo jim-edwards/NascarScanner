@@ -154,7 +154,7 @@ def generate_Uniden_HomePatrol_Sentinel(fname):
 
     file.write(f"TargetModel	HomePatrol-1\n")
     file.write(f"FormatVersion	2.04\n")
-    file.write(f"Conventional			2024 Nascar Season	Off		Conventional\n")
+    file.write(f"Conventional			2025 Nascar Season	Off		Conventional\n")
 
     # Output race channels
     race_data = read_race_csv('src_race_channels.csv')
@@ -188,10 +188,10 @@ def generate_Uniden_HomePatrol_Sentinel(fname):
 def main():
 
     print("Generating Uniden BC125AT\n")
-    generate_Uniden_BC125AT("Uniden BC125AT\\2024_Nascar_Season.bc125at_ss")
+    generate_Uniden_BC125AT("Uniden BC125AT\\2025_Nascar_Season.bc125at_ss")
 
     print("Generating Uniden HomePatrol Sentinel\n")
-    generate_Uniden_HomePatrol_Sentinel("Uniden HomePatrol Sentinel\\2024_Nascar_Season.hpd")
+    generate_Uniden_HomePatrol_Sentinel("Uniden HomePatrol Sentinel\\2025_Nascar_Season.hpd")
 
 if __name__ == "__main__":
     main()
