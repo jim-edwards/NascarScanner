@@ -1,5 +1,8 @@
 import csv
 import argparse
+import gzip
+import os
+import sys
 
 def read_race_csv(fname):
 
@@ -183,7 +186,30 @@ def generate_Uniden_HomePatrol_Sentinel(fname, year):
     race_data = read_race_csv('src_craftsman_truck.csv')
     generate_Uniden_HomePatrol_Sentinel_section(file, race_data, "Truck Drivers - Backup", False)
 
+    # Final marker line expected by the HomePatrol format/tools
+    file.write("File\tHomePatrol Export File\n")
     file.close()
+
+
+SECRET = 0x0C
+def convert_hpd_to_hpe(inpath: str, outpath: str) -> int:
+    """Compress and obfuscate an HPD file into an HPE file.
+
+    Returns the number of bytes written to the HPE file.
+    """
+    if not os.path.isfile(inpath):
+        raise FileNotFoundError(f"Input file not found: {inpath}")
+
+    with open(inpath, "rb") as f:
+        data = f.read()
+
+    gz_bytes = gzip.compress(data)
+    xored = bytes(b ^ SECRET for b in gz_bytes)
+
+    with open(outpath, "wb") as outf:
+        outf.write(xored)
+
+    return len(xored)
 
 
 def generate_CHIRP_csv(fname):
@@ -268,6 +294,17 @@ def main():
 
     print(f"Generating Uniden HomePatrol Sentinel for {year}\n")
     generate_Uniden_HomePatrol_Sentinel(f"Uniden HomePatrol Sentinel\\{year}_Nascar_Season.hpd", year)
-
+    # Convert produced .hpd into obfuscated .hpe and remove .hpd when successful
+    inp = f"Uniden HomePatrol Sentinel\\{year}_Nascar_Season.hpd"
+    out = f"Uniden HomePatrol Sentinel\\{year}_Nascar_Season.hpe"
+    try:
+        written = convert_hpd_to_hpe(inp, out)
+        try:
+            os.remove(inp)
+        except Exception as e:
+            print(f"Warning: failed to remove {inp}: {e}", file=sys.stderr)
+    except Exception as e:
+        print(f"Error generating HPE: {e}", file=sys.stderr)
+  
 if __name__ == "__main__":
     main()

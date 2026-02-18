@@ -10,9 +10,18 @@ Use the BC125AT Software.  Go to File->Open, select the file/season and it will 
 
 # HomePatrol Sentinel
 
-Use the HomePatrol Software.  Copy the file to your settings folder, found in Tools->Settings.  Default is C:\Users\<user>\Documents\Uniden\HomePatrol\FavoritesList.  Rename the file so it fits the list file format, or modify to suite.
+Use the HomePatrol Software.  Got to File->Import from HPE file.
+
+# CHiRP
+
+1. Use the CHiRP software to read an img from the existing radio.
+2. Open the Year_Nascar_Season.csv file in CHiRP
+3. Select all the desired rows, then right click and copy
+4. Select the first row and paste, it will overwrite all values under it
 
 # Generation instructions
+
+The following instructions are used to process the incoming CSV files into each individual radios format.
 
 ## HTML -> CSV
 
