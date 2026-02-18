@@ -25,18 +25,18 @@ The following instructions are used to process the incoming CSV files into each 
 
 ## HTML -> CSV
 
-`python .\html_to_csv.ph --html .\src_speedwaydigest_nascar_cup.html --csv .\src_cup_series.csv`
+`python tools\html_to_csv.ph --html .\src_speedwaydigest_nascar_cup.html --csv .\src_cup_series.csv`
 
 Manually copy the race channels to src_race_channels.csv
 
-`python .\html_to_csv.ph --html .\src_speedwaydigest_nascar_oreilly.html --csv .\src_oreilly_series.csv`
+`python tools\html_to_csv.ph --html .\src_speedwaydigest_nascar_oreilly.html --csv .\src_oreilly_series.csv`
 
 Manually remove and verify the race channels match src_race_channels.csv
 
-`python .\html_to_csv.ph --html .\craftsman_truck.html --csv .\src_craftsman_truck.csv`
+`python tools\html_to_csv.ph --html .\craftsman_truck.html --csv .\src_craftsman_truck.csv`
 
 Manually remove and verify the race channels match src_race_channels.csv
 
 ## CSV -> Scanner files
 
-`python .\generate_all.py --year 2026`
+`python tools\generate_all.py --year 2026`
