@@ -1,4 +1,5 @@
 import csv
+import argparse
 
 def read_race_csv(fname):
 
@@ -88,18 +89,18 @@ def generate_Uniden_BC125AT(fname):
     channel += 50
     section += 1
 
-    # Output cup series
-    race_data = read_race_csv('src_xfinity_series.csv')
+    # Output OReilly series
+    race_data = read_race_csv('src_oreilly_series.csv')
     generate_Uniden_BC125AT_section(file, race_data, section, channel, True)
     channel += 50
     section += 1
 
-    race_data = read_race_csv('src_xfinity_series.csv')
+    race_data = read_race_csv('src_oreilly_series.csv')
     generate_Uniden_BC125AT_section(file, race_data, section, channel, False)
     channel += 50
     section += 1
 
-    # Output cup series
+    # Output Truck series
     race_data = read_race_csv('src_craftsman_truck.csv')
     generate_Uniden_BC125AT_section(file, race_data, section, channel, True)
     channel += 50
@@ -144,17 +145,17 @@ def generate_Uniden_HomePatrol_Sentinel_section(file, race_data, section_name, p
             freq = 0
         # !!TODO!! Freq of 0 doesn't load!
         
-        file.write(f"C-Freq			{driver}	Off	{freq}	AUTO		217	Off	2	0	Off	Auto\n")    
+        file.write(f"C-Freq			{driver}	Off	{freq}	AUTO		217	Off	2	0	Off	Auto\n")
 
 
-def generate_Uniden_HomePatrol_Sentinel(fname):
+def generate_Uniden_HomePatrol_Sentinel(fname, year):
 
     # Output fixed headers
     file = open(fname, "w")
 
-    file.write(f"TargetModel	HomePatrol-1\n")
-    file.write(f"FormatVersion	2.04\n")
-    file.write(f"Conventional			2025 Nascar Season	Off		Conventional\n")
+    file.write(f"TargetModel\tHomePatrol-1\n")
+    file.write(f"FormatVersion\t2.04\n")
+    file.write(f"Conventional\t\t\t{year} Nascar Season\tOff\t\tConventional\n")
 
     # Output race channels
     race_data = read_race_csv('src_race_channels.csv')
@@ -168,14 +169,14 @@ def generate_Uniden_HomePatrol_Sentinel(fname):
     race_data = read_race_csv('src_cup_series.csv')
     generate_Uniden_HomePatrol_Sentinel_section(file, race_data, "Cup Drivers - Backup", False)
 
-    # Output cup series
-    race_data = read_race_csv('src_xfinity_series.csv')
+    # Output OReilly series
+    race_data = read_race_csv('src_oreilly_series.csv')
     generate_Uniden_HomePatrol_Sentinel_section(file, race_data, "Xfinity Drivers - Primary", True)
 
-    race_data = read_race_csv('src_xfinity_series.csv')
+    race_data = read_race_csv('src_oreilly_series.csv')
     generate_Uniden_HomePatrol_Sentinel_section(file, race_data, "Xfinity Drivers - Backup", False)
 
-    # Output cup series
+    # Output Truck series
     race_data = read_race_csv('src_craftsman_truck.csv')
     generate_Uniden_HomePatrol_Sentinel_section(file, race_data, "Truck Drivers - Primary", True)
 
@@ -187,11 +188,17 @@ def generate_Uniden_HomePatrol_Sentinel(fname):
 
 def main():
 
-    print("Generating Uniden BC125AT\n")
-    generate_Uniden_BC125AT("Uniden BC125AT\\2025_Nascar_Season.bc125at_ss")
+    parser = argparse.ArgumentParser(description="Generate Nascar scanner files for a given year")
+    parser.add_argument("--year", "-y", required=True,
+                        help="Year to use in generated filenames and labels (required)")
+    args = parser.parse_args()
+    year = args.year
 
-    print("Generating Uniden HomePatrol Sentinel\n")
-    generate_Uniden_HomePatrol_Sentinel("Uniden HomePatrol Sentinel\\2025_Nascar_Season.hpd")
+    print(f"Generating Uniden BC125AT for {year}\n")
+    generate_Uniden_BC125AT(f"Uniden BC125AT\\{year}_Nascar_Season.bc125at_ss")
+
+    print(f"Generating Uniden HomePatrol Sentinel for {year}\n")
+    generate_Uniden_HomePatrol_Sentinel(f"Uniden HomePatrol Sentinel\\{year}_Nascar_Season.hpd", year)
 
 if __name__ == "__main__":
     main()
