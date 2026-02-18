@@ -186,6 +186,72 @@ def generate_Uniden_HomePatrol_Sentinel(fname, year):
     file.close()
 
 
+def generate_CHIRP_csv(fname):
+    file = open(fname, "w", newline='')
+    writer = csv.writer(file, quoting=csv.QUOTE_MINIMAL)
+
+    # Write header in the exact order requested by user
+    header = ["Location","Name","Frequency","Duplex","Offset","Tone","rToneFreq","cToneFreq","DtcsCode","DtcsPolarity","RxDtcsCode","CrossMode","Mode","TStep","Skip","Power","Comment","URCALL","RPT1CALL","RPT2CALL","DVCODE"]
+    writer.writerow(header)
+
+    location = 1
+
+    def write_series(race_csv, col_index, series_label, series_prefix, primary_only=False):
+        nonlocal location
+        race_data = read_race_csv(race_csv)
+        next(race_data, None)
+        for row in race_data:
+            driver = row[1]
+            freq = row[col_index]
+            if freq != '':
+                # suffix codes
+                if primary_only:
+                    suffixes = [("PR", "Primary")]
+                else:
+                    suffixes = [("PR", "Primary"), ("BK", "Backup")] if col_index != 4 else [("BK", "Backup")]
+
+                for short_suf, full_suf in suffixes:
+                    name = f"{series_prefix} {driver} {short_suf}"
+                    duplex = ""
+                    offset = "0.000000"
+                    tone = ""
+                    rToneFreq = "88.5"
+                    cToneFreq = "88.5"
+                    DtcsCode = "023"
+                    DtcsPolarity = "NN"
+                    RxDtcsCode = "023"
+                    CrossMode = "Tone->Tone"
+                    Mode = "FM"
+                    TStep = "5.00"
+                    Skip = ""
+                    Power = "5W"
+                    Comment = f"{series_label} {driver} {full_suf}"
+                    URCALL = ""
+                    RPT1CALL = ""
+                    RPT2CALL = ""
+                    DVCODE = ""
+
+                    writer.writerow([location, name, freq, duplex, offset, tone, rToneFreq, cToneFreq, DtcsCode, DtcsPolarity, RxDtcsCode, CrossMode, Mode, TStep, Skip, Power, Comment, URCALL, RPT1CALL, RPT2CALL, DVCODE])
+                    location += 1
+
+    # Race channels - primary only
+    write_series('src_race_channels.csv', 2, "Race Channels", "R", primary_only=True)
+
+    # Cup series - primary then backup
+    write_series('src_cup_series.csv', 2, "Cup Series", "C", primary_only=True)
+    write_series('src_cup_series.csv', 4, "Cup Series", "C", primary_only=False)
+
+    # OReilly series - primary then backup
+    write_series('src_oreilly_series.csv', 2, "OReilly Series", "O", primary_only=True)
+    write_series('src_oreilly_series.csv', 4, "OReilly Series", "O", primary_only=False)
+
+    # Truck series - primary then backup
+    write_series('src_craftsman_truck.csv', 2, "Truck Series", "T", primary_only=True)
+    write_series('src_craftsman_truck.csv', 4, "Truck Series", "T", primary_only=False)
+
+    file.close()
+
+
 def main():
 
     parser = argparse.ArgumentParser(description="Generate Nascar scanner files for a given year")
@@ -193,6 +259,9 @@ def main():
                         help="Year to use in generated filenames and labels (required)")
     args = parser.parse_args()
     year = args.year
+    
+    print(f"Generating CHIRP CSV for {year}\n")
+    generate_CHIRP_csv(f"CHIRP\\{year}_Nascar_Season.csv")
 
     print(f"Generating Uniden BC125AT for {year}\n")
     generate_Uniden_BC125AT(f"Uniden BC125AT\\{year}_Nascar_Season.bc125at_ss")
