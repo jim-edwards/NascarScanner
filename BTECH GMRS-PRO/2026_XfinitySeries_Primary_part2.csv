@@ -1,0 +1,15 @@
+title,tx_freq,rx_freq,tx_sub_audio(CTCSS=freq/DCS=number),rx_sub_audio(CTCSS=freq/DCS=number),tx_power(H/M/L),bandwidth(12500/25000),scan(0=OFF/1=ON),talk around(0=OFF/1=ON),pre_de_emph_bypass(0=OFF/1=ON),sign(0=OFF/1=ON),tx_dis(0=OFF/1=ON),mute(0=OFF/1=ON),rx_modulation(0=FM/1=AM),tx_modulation(0=FM/1=AM)
+,,,,,,,,,,,,,,
+Lavar Scott,462950000,462950000,,,H,25000,1,0,0,0,0,0,0,0
+Patrick Staropoli,468537500,468537500,,,H,25000,1,0,0,0,0,0,0,0
+Jeremy Clements,469187500,469187500,,,H,25000,1,0,0,0,0,0,0,0
+Daniel Dye,464400000,464400000,,,H,25000,1,0,0,0,0,0,0,0
+David Starr,461475000,461475000,,,H,25000,1,0,0,0,0,0,0,0
+Taylor Gray,464700000,464700000,,,H,25000,1,0,0,0,0,0,0,0
+Joey Gase,467737500,467737500,,,H,25000,1,0,0,0,0,0,0,0
+Austin Green,465725000,465725000,,,H,25000,1,0,0,0,0,0,0,0
+Rajah Caruth,466337500,466337500,,,H,25000,1,0,0,0,0,0,0,0
+Mason Maggio,463062500,463062500,,,H,25000,1,0,0,0,0,0,0,0
+Josh Williams,463375000,463375000,,,H,25000,1,0,0,0,0,0,0,0
+Anthony Alfredo,453025000,453025000,,,H,25000,1,0,0,0,0,0,0,0
+Parker Retzlaff,460100000,460100000,,,H,25000,1,0,0,0,0,0,0,0

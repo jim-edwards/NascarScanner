@@ -1,0 +1,18 @@
+title,tx_freq,rx_freq,tx_sub_audio(CTCSS=freq/DCS=number),rx_sub_audio(CTCSS=freq/DCS=number),tx_power(H/M/L),bandwidth(12500/25000),scan(0=OFF/1=ON),talk around(0=OFF/1=ON),pre_de_emph_bypass(0=OFF/1=ON),sign(0=OFF/1=ON),tx_dis(0=OFF/1=ON),mute(0=OFF/1=ON),rx_modulation(0=FM/1=AM),tx_modulation(0=FM/1=AM)
+,,,,,,,,,,,,,,
+Stewart Friesen,462412500,462412500,,,H,25000,1,0,0,0,0,0,0,0
+Timmy Hill,451512500,451512500,,,H,25000,1,0,0,0,0,0,0,0
+John Nemechek,468112500,468112500,,,H,25000,1,0,0,0,0,0,0,0
+Tyler Tomassi,467687500,467687500,,,H,25000,1,0,0,0,0,0,0,0
+SPIRE,469025000,469025000,,,H,25000,1,0,0,0,0,0,0,0
+Cory LaJoie,469725000,469725000,,,H,25000,1,0,0,0,0,0,0,0
+Spencer Boyd,469437500,469437500,,,H,25000,1,0,0,0,0,0,0,0
+Carson Hocevar,463612500,463612500,,,H,25000,1,0,0,0,0,0,0,0
+Kris Wright,457037500,457037500,,,H,25000,1,0,0,0,0,0,0,0
+Ty Majeski,468375000,468375000,,,H,25000,1,0,0,0,0,0,0,0
+Justin Carroll,462325000,462325000,,,H,25000,1,0,0,0,0,0,0,0
+Christian Eckes,457350000,457350000,,,H,25000,1,0,0,0,0,0,0,0
+Clay Greenfield,466387500,466387500,,,H,25000,1,0,0,0,0,0,0,0
+Jason Kitzmiller,456412500,456412500,,,H,25000,1,0,0,0,0,0,0,0
+Jake Garcia,456500000,456500000,,,H,25000,1,0,0,0,0,0,0,0
+Ben Rhodes,468037500,468037500,,,H,25000,1,0,0,0,0,0,0,0

@@ -1,0 +1,18 @@
+title,tx_freq,rx_freq,tx_sub_audio(CTCSS=freq/DCS=number),rx_sub_audio(CTCSS=freq/DCS=number),tx_power(H/M/L),bandwidth(12500/25000),scan(0=OFF/1=ON),talk around(0=OFF/1=ON),pre_de_emph_bypass(0=OFF/1=ON),sign(0=OFF/1=ON),tx_dis(0=OFF/1=ON),mute(0=OFF/1=ON),rx_modulation(0=FM/1=AM),tx_modulation(0=FM/1=AM)
+,,,,,,,,,,,,,,
+Tyler Reddick,467537500,467537500,,,H,25000,1,0,0,0,0,0,0,0
+Ricky Stenhouse Jr,457650000,457650000,,,H,25000,1,0,0,0,0,0,0,0
+Alex Bowman,451200000,451200000,,,H,25000,1,0,0,0,0,0,0,0
+Cody Ware,466225000,466225000,,,H,25000,1,0,0,0,0,0,0,0
+Ty Gibbs,467450000,467450000,,,H,25000,1,0,0,0,0,0,0,0
+Ryan Preece,468950000,468950000,,,H,25000,1,0,0,0,0,0,0,0
+Anthony Alfredo,451325000,451325000,,,H,25000,1,0,0,0,0,0,0,0
+Casey Mears,458537500,458537500,,,H,25000,1,0,0,0,0,0,0,0
+Corey Heim,467812500,467812500,,,H,25000,1,0,0,0,0,0,0,0
+Michael McDowell,459037500,459037500,,,H,25000,1,0,0,0,0,0,0,0
+Carson Hocevar,458212500,458212500,,,H,25000,1,0,0,0,0,0,0,0
+BJ McLeod,467750000,467750000,,,H,25000,1,0,0,0,0,0,0,0
+Jimmie Johnson,460237500,460237500,,,H,25000,1,0,0,0,0,0,0,0
+Connor Zilisch,465387500,465387500,,,H,25000,1,0,0,0,0,0,0,0
+Shane Van Gisbergen,463825000,463825000,,,H,25000,1,0,0,0,0,0,0,0
+Corey Lajoie,453737500,453737500,,,H,25000,1,0,0,0,0,0,0,0

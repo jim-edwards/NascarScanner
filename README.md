@@ -19,6 +19,14 @@ Use the HomePatrol Software.  Got to File->Import from HPE file.
 3. Select all the desired rows, then right click and copy
 4. Select the first row and paste, it will overwrite all values under it
 
+# BTECH GMRS-PRO
+
+1. Copy ALL the CSV files to your Android / iPhone
+2. Click on Device Settings -> Channel and Groups
+3. Click Import -> File
+4. Import each file (device has a limit of 30 channels per group, and I left 1 channel at the top to put your commmunications on)
+
+
 # Generation instructions
 
 The following instructions are used to process the incoming CSV files into each individual radios format.
