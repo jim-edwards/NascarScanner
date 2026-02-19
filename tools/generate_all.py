@@ -174,10 +174,10 @@ def generate_Uniden_HomePatrol_Sentinel(fname, year):
 
     # Output OReilly series
     race_data = read_race_csv('src_oreilly_series.csv')
-    generate_Uniden_HomePatrol_Sentinel_section(file, race_data, "Xfinity Drivers - Primary", True)
+    generate_Uniden_HomePatrol_Sentinel_section(file, race_data, "OReilly Drivers - Primary", True)
 
     race_data = read_race_csv('src_oreilly_series.csv')
-    generate_Uniden_HomePatrol_Sentinel_section(file, race_data, "Xfinity Drivers - Backup", False)
+    generate_Uniden_HomePatrol_Sentinel_section(file, race_data, "OReilly Drivers - Backup", False)
 
     # Output Truck series
     race_data = read_race_csv('src_craftsman_truck.csv')
@@ -349,11 +349,11 @@ def generate_BTECH_GMRS_PRO_csv(year: str):
     write_chunks(cup_primary, 'CupSeries', '_Primary')
     write_chunks(cup_backup, 'CupSeries', '_Backup')
 
-    # OReilly/Xfinity series - primary then backup
+    # OReilly series - primary then backup
     xfin_primary = collect_entries('src_oreilly_series.csv', 2, primary_only=True)
     xfin_backup = collect_entries('src_oreilly_series.csv', 4, primary_only=False)
-    write_chunks(xfin_primary, 'XfinitySeries', '_Primary')
-    write_chunks(xfin_backup, 'XfinitySeries', '_Backup')
+    write_chunks(xfin_primary, 'OReillySeries', '_Primary')
+    write_chunks(xfin_backup, 'OReillySeries', '_Backup')
 
     # Truck series - primary then backup
     truck_primary = collect_entries('src_craftsman_truck.csv', 2, primary_only=True)
